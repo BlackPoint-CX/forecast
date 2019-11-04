@@ -63,3 +63,4 @@ target/
 
 # custom
 .idea/
+venv/
