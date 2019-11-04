@@ -24,6 +24,7 @@ PyYAML==5.1.2
 requests==2.20.1
 six==1.11.0
 state-machine==0.2.10
+tornado==6.0.3
 typed-ast==1.4.0
 urllib3==1.24.1
 virtualenv==16.1.0
