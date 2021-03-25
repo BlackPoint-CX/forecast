@@ -20,7 +20,7 @@ poyo==0.4.2
 pylint==2.3.1
 pyparsing==2.4.2
 python-dateutil==2.7.5
-PyYAML==5.1.2
+PyYAML==5.4
 requests==2.20.1
 six==1.11.0
 state-machine==0.2.10
