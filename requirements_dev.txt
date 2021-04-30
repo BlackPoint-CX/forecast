@@ -26,7 +26,7 @@ six==1.11.0
 state-machine==0.2.10
 tornado==6.0.3
 typed-ast==1.4.0
-urllib3==1.25.6
+urllib3==1.25.8
 virtualenv==16.1.0
 Werkzeug==0.16.0
 whichcraft==0.5.2
