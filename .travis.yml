@@ -1,2 +1,14 @@
 language: python
-script: true
+
+env:
+  global:
+    # Test global variables
+    - PROJECT_NAME="forecast"
+
+sudo: required
+install:
+  - bash build_tools/travis/install.sh
+script:
+  - base build_tools/travis/test_script.sh
+after_success:
+  - bash build_tools/travis/after_success.sh
