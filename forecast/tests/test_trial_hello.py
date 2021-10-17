@@ -1,9 +1,9 @@
 import unittest
 
-from trial_hello import hello
+from forecast.trial_hello import hello
 
 
-class MyTestCase(unittest.TestCase):
+class TestTrialHello(unittest.TestCase):
 
     def test_hello(self):
         arg = "world"
