@@ -20,7 +20,7 @@ install:
   - bash build_tools/travis/install.sh
 script:
   - bash build_tools/travis/test_script.sh
-  - coverage run tests/trial_tests.py
+  - coverage run tests/test_trial_hello.py
   - coverage xml
 after_success:
   - bash build_tools/travis/after_success.sh
