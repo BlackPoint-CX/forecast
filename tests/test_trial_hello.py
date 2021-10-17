@@ -1,10 +1,9 @@
 import unittest
+
 from trial_hello import hello
 
 
 class MyTestCase(unittest.TestCase):
-    def test_something(self):
-        self.assertEqual(True, False)  # add assertion here
 
     def test_hello(self):
         arg = "world"
