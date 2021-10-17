@@ -19,6 +19,7 @@ install:
   - bash build_tools/travis/install.sh
 script:
   - bash build_tools/travis/test_script.sh
+  - coverage run main.py
 after_success:
   - bash build_tools/travis/after_success.sh
   - codecov # 运行codecov
