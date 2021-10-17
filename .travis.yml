@@ -9,6 +9,6 @@ sudo: required
 install:
   - bash build_tools/travis/install.sh
 script:
-  - base build_tools/travis/test_script.sh
+  - bash build_tools/travis/test_script.sh
 after_success:
   - bash build_tools/travis/after_success.sh
