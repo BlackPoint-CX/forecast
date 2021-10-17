@@ -1,5 +1,5 @@
 import unittest
-from trail_hello import hello
+from trial_hello import hello
 
 
 class MyTestCase(unittest.TestCase):

@@ -3,7 +3,7 @@
 """
 __author__ : BlackPoint-CX
 __email__ : msg.receiver.bp@gmail.com
-__file_name__ : trail_hello.py.py
+__file_name__ : trial_hello.py.py
 __create_time__ : 2021/10/17
 """
 
