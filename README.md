@@ -1,6 +1,6 @@
 # Forecast
 
-[![CI](https://github.com/sql-machine-learning/sqlflow/workflows/CI/badge.svg)](https://github.com/sql-machine-learning/sqlflow/actions)
+[![CI](https://app.travis-ci.com/BlackPoint-CX/forecast.svg?branch=master)](https://github.com/BlackPoint-CX/forecast)
 
 ## What's forecast? 
 
