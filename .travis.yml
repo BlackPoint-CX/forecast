@@ -15,11 +15,13 @@ sudo: false
 
 before_install:
   - pip install numpy
+  - pip install coverage
 install:
   - bash build_tools/travis/install.sh
 script:
   - bash build_tools/travis/test_script.sh
-  - coverage run main.py
+  - coverage run tests/trail_tests.py
+  - coverage xml
 after_success:
   - bash build_tools/travis/after_success.sh
   - codecov # 运行codecov

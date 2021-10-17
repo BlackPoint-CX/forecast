@@ -1,0 +1,9 @@
+[run]
+source = forecast
+branch = True
+parallel = True
+omit =
+    */sklearn/externals/*
+    */sklearn/_build_utils/*
+    */benchmarks/*
+    **/setup.py
