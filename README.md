@@ -1,7 +1,7 @@
 # Forecast
 
-[![codecov](https://codecov.io/gh/BlackPoint-CX/forecast/branch/master/graph/badge.svg?token=UAFICIDA8R)](https://codecov.io/gh/BlackPoint-CX/forecast)
-[![GitHub Actions Demo](https://github.com/BlackPoint-CX/forecast/actions/workflows/github-actions.yml/badge.svg?event=push)](https://github.com/BlackPoint-CX/forecast/actions/workflows/github-actions.yml)
+![codecov](https://codecov.io/gh/BlackPoint-CX/forecast/branch/master/graph/badge.svg?token=UAFICIDA8R)
+![GitHub Actions Demo](https://github.com/BlackPoint-CX/forecast/actions/workflows/github-actions.yml/badge.svg?event=push)
 
 ## What's forecast? 
 
